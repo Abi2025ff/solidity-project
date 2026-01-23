@@ -12,9 +12,11 @@
   "type": "commonjs",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
-    "@types/chai": "^5.2.3",
+    "@types/chai": "^4.3.20",
+    "@types/chai-as-promised": "^7.1.8",
     "@types/mocha": "^10.0.10",
     "hardhat": "^2.22.0",
+    "solidity-coverage": "^0.8.17",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
